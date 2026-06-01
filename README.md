@@ -1,4 +1,4 @@
 
 ## Hello! My name is Evan
 
-<p>I am a junior developer and student of Computer Science at Wright State University</p>
+I am a junior developer with a Bachelor's of Computer Science from Wright State University
